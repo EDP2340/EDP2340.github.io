@@ -1,2 +1,2 @@
-# edp2340.tk
+# edp2340.github.io
 echo "Hello World" > index.html
