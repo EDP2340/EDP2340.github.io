@@ -1,2 +1,2 @@
-# EDP2340.github.io
+# jskmds.github.io
 echo "Hello World" > index.html
